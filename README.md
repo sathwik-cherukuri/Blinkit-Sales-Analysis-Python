@@ -20,17 +20,17 @@ Executed an end-to-end data analysis project on 8,523 Blinkit grocery items usin
   
 
 ## process
-1 .Data Acquisition & Inspection:
+### 1 .Data Acquisition & Inspection:
 - Loaded the dataset, confirming its scale of 8,523 rows and 12 columns.
 - Inspected data types and checked for initial data quality issues.
-2 .Data Cleaning & Standardization:
+### 2 .Data Cleaning & Standardization:
 - Handled Missing Data: Identified 1,463 missing values in the Item Weight column (a key step before imputation/modeling).
 - Categorical Unification: Standardized the Item Fat Content feature by consolidating five inconsistent entries (LF, low fat, reg, etc.) into two clean categories: 'Low Fat' and 'Regular'.
-3 .Key Performance Indicator (KPI) Derivation:
+### 3 .Key Performance Indicator (KPI) Derivation:
 - Calculated fundamental business metrics using pandas aggregation:
 - Total Sales (Revenue generated, over $1.2 Million).
 - Average Sales (Average value per item, $141.0).
 - Average Item Rating (Customer satisfaction, 4/5).
-4 .Exploratory Data Analysis (EDA) & Visualization:
+### 4 .Exploratory Data Analysis (EDA) & Visualization:
 - Used Matplotlib and Seaborn to group sales data by Outlet Establishment Year.
 - Generated visual charts to illustrate temporal trends in sales performance, providing insights into the contribution of outlets established at different points in time
