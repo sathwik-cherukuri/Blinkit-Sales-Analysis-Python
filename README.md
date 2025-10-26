@@ -42,6 +42,9 @@ This Blinkit Sales Performance Analysis project focused on generating actionable
 ## Conclusion
 The Blinkit Sales Performance Analysis successfully completed a full data analysis cycle, beginning with robust data cleaning and culminating in the delivery of key business metrics and strategic insights.
 ### Key Achievements:
-#### Data Integrity: Ensured high data quality by successfully standardizing categorical features and identifying significant data gaps, such as the 1,463 missing values in Item Weight.
-#### Quantifiable Results: Established critical performance benchmarks, including a Total Sales figure exceeding $1.2 Million and an encouraging Average Item Rating of $4/5$.
-#### Actionable Intelligence: The visualization of sales performance across outlet establishment years provided a crucial temporal dimension to the analysis, laying the groundwork for optimizing resource allocation and future store expansion strategies.
+#### Data Integrity:
+Ensured high data quality by successfully standardizing categorical features and identifying significant data gaps, such as the 1,463 missing values in Item Weight.
+#### Quantifiable Results:
+Established critical performance benchmarks, including a Total Sales figure exceeding $1.2 Million and an encouraging Average Item Rating of $4/5$.
+#### Actionable Intelligence:
+The visualization of sales performance across outlet establishment years provided a crucial temporal dimension to the analysis, laying the groundwork for optimizing resource allocation and future store expansion strategies.
