@@ -11,7 +11,7 @@ Executed an end-to-end data analysis project on 8,523 Blinkit grocery items usin
 - Technology Used: Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Environment : Jupyter Notebook
   
-##Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 - Total Sales
 - Average Sales
 - Average Item Rating
