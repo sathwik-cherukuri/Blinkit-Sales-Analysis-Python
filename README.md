@@ -5,4 +5,4 @@ A comprehensive data analysis project exploring sales performance, key product i
 Executed an end-to-end data analysis project on 8,523 Blinkit grocery items using Python (Pandas, Matplotlib, Seaborn), cleaning data, calculating core KPIs (e.g., $1.2M+ Total Sales), and visualizing trends across outlet type
 
 ## Data Sources
-
+<a href ="https://github.com/sathwik-cherukuri/Blinkit-Sales-Analysis-Python/blob/main/BlinkIT%20Grocery%20Data.xlsx" >
