@@ -34,7 +34,7 @@ Executed an end-to-end data analysis project on 8,523 Blinkit grocery items usin
 ### 4 .Exploratory Data Analysis (EDA) & Visualization:
 - Used Matplotlib and Seaborn to group sales data by Outlet Establishment Year.
 - Generated visual charts to illustrate temporal trends in sales performance, providing insights into the contribution of outlets established at different points in time
-
+<a href = "https://github.com/sathwik-cherukuri/Blinkit-Sales-Analysis-Python/blob/main/Blinkit%20analysis%20in%20python.ipynb">Overview</a>
 
 ## project Insights
 This Blinkit Sales Performance Analysis project focused on generating actionable business insights from a dataset of 8,523 e-grocery items. The process involved rigorous data cleaning, where I handled 1,463 missing values in Item Weight and standardized categorical features (e.g., unifying Item Fat Content). Using Python (Pandas, NumPy, Matplotlib, Seaborn), I calculated core KPIs, confirming over $1.2 Million in Total Sales and an Average Item Rating of $4/5$. Finally, I visualized sales trends by outlet establishment year to identify key temporal performance patterns, delivering quantifiable results and foundational business intelligence.
