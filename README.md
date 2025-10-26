@@ -6,7 +6,7 @@ Executed an end-to-end data analysis project on 8,523 Blinkit grocery items usin
 
 ## Data Sources
 <a href ="https://github.com/sathwik-cherukuri/Blinkit-Sales-Analysis-Python/blob/main/BlinkIT%20Grocery%20Data.xlsx" >Blinkit Data</a>
-
+ 
 ## Tools
 - Technology Used: Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Environment : Jupyter Notebook
