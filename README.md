@@ -47,4 +47,4 @@ Ensured high data quality by successfully standardizing categorical features and
 #### Quantifiable Results:
 Established critical performance benchmarks, including a Total Sales figure exceeding $1.2 Million and an encouraging Average Item Rating of $4/5$.
 #### Actionable Intelligence:
-The visualization of sales performance across outlet establishment years provided a crucial temporal dimension to the analysis, laying the groundwork for optimizing resource allocation and future store expansion strategies.
+The visualization of sales performance across outlet establishment years provided a crucial temporal dimension to the analysis, laying the groundwork for optimizing resource allocation and future store expansion strategies.                                            
